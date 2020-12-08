@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1601797407 source:c:\users\dell\desktop\miniproj\electronicsproj\electronics.cpp
+	"electronics.h"
+	<string>
+
+1601791484 c:\users\dell\desktop\miniproj\electronicsproj\electronics.h
+	<string>
+
+1601797977 source:c:\users\dell\desktop\miniproj\electronicsproj\electronics-test.cpp
+	"Electronics.h"
+	"ElectronicsDevices.h"
+	"ElectronicsDB.h"
+	<gtest/gtest.h>
+
+1601792687 c:\users\dell\desktop\miniproj\electronicsproj\electronicsdevices.h
+	<string>
+	"Electronics.h"
+
+1601820126 c:\users\dell\desktop\miniproj\electronicsproj\electronicsdb.h
+	<string>
+	<cstdint>
+	"Electronics.h"
+	"ElectronicsDevices.h"
+	<list>
+	<iterator>
+
+1601797523 source:c:\users\dell\desktop\miniproj\electronicsproj\electronics-testdb.cpp
+	"Electronics.h"
+	"ElectronicsDevices.h"
+	"ElectronicsDB.h"
+	<gtest/gtest.h>
+	<iostream>
+	<pthread.h>
+	<semaphore.h>
+	<list>
+	<iterator>
+	<cstdint>
+
+1601798108 source:c:\users\dell\desktop\miniproj\electronicsproj\electronicsdevices.cpp
+	<string>
+	"Electronics.h"
+	"ElectronicsDevices.h"
+
+1601797533 source:c:\users\dell\desktop\miniproj\electronicsproj\electronicsdb.cpp
+	"ElectronicsDevices.h"
+	"Electronics.h"
+	"ElectronicsDB.h"
+	<string>
+	<list>
+	<iterator>
+	<thread>
+	<semaphore.h>
+	<iostream>
+
