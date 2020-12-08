@@ -1,0 +1,3 @@
+/home/user/Downloads/linux/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/linux/CMakeFiles/sudokuMain.dir
+/home/user/Downloads/linux/CMakeFiles/edit_cache.dir

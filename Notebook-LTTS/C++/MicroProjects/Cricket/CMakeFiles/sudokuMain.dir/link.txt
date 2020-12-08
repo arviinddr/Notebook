@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/sudokuMain.dir/passing.c.o  -o sudokuMain -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

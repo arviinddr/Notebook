@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/linux/passer.h
+
+/home/user/Downloads/linux/passing.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+unistd.h
+-
+semaphore.h
+-
+unistd.h
+-
+sys/ipc.h
+-
+sys/msg.h
+-
+passer.h
+/home/user/Downloads/linux/passer.h
+receiver.h
+/home/user/Downloads/linux/receiver.h
+
+/home/user/Downloads/linux/receiver.h
+

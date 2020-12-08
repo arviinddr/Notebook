@@ -1,0 +1,3 @@
+
+
+gcc cricket.c Bowling.c Fielding.c -o Cricket -lpthread -lrt -zexecstack -fno-stack-protector -g
